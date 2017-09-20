@@ -114,7 +114,7 @@ nav a:first-child {
 
 #main-container { 
 	padding-top: 130px;
-	min-height: calc(100vh - 70px);
+	min-height: calc(90vh - 50px);
 }
 
 .main-section {
